@@ -9,9 +9,9 @@ datasets/
 tmp/
 
 outputs/
-
+trainedmodel/
 samples/
-
+DAMSMencoders/
 eval/
 
 checkpoints/
